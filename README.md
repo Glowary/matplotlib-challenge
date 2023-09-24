@@ -79,7 +79,6 @@ To calculate linear regression between average mouse weight and average tumor vo
 ### Step 7:  Final analysis
 Among the four-drug regimens, Capomulin and Ramicane appear to be more effective in reducing tumor volume than Infubinol and Ceftamin since there is a lower median tumor volume for Capomulin and Ramicane. There is a positive correlation between mouse weight and the average tumor volume. This indicates that as mouse weight increases, the average tumor volume tends to increase as well. This correlation suggests that heavier mice develop larger tumors. Ceftamin, Capomulin, and Ramicane do not have any outliers, indicating that the data points for these drug regimens are consistent and do not deviate significantly.  
 
-## Conclusion
 ### Reference
 [agg()](https://sparkbyexamples.com/pandas/pandas-groupby-sum-examples/)  
 [matplotlib.pyplot](https://matplotlib.org/stable/api/pyplot_summary.html)  
